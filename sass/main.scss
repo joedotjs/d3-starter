@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 10px;
+}
+
+#chart {
+  margin: 0 auto;
+  width: 800px;
+  margin-top: 100px;
+  display: block;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke-width: 1;
+  stroke: #000;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+

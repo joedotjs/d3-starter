@@ -1,0 +1,19 @@
+{
+  "name": "d3-starter",
+  "version": "1.0.0",
+  "dependencies": {
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.4",
+    "d3": "^3.5.5",
+    "gulp": "^3.9.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.1",
+    "gulp-util": "^3.0.5",
+    "node-reset-scss": "^1.0.1",
+    "plumber": "^0.4.8",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.2"
+  },
+  "keywords": [],
+  "author": "Joe Alves <databentpx@gmail.com> (http://www.github.com/joedotjs)"
+}
